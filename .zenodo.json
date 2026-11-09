@@ -1,0 +1,31 @@
+{
+  "title": "SWC-FX numerical results",
+  "upload_type": "dataset",
+  "publication_date": "2026-11-09",
+  "creators": [
+    {
+      "name": "Cheng, Pengren",
+      "affiliation": "Communication University of China",
+      "orcid": "0009-0007-2326-6273"
+    }
+  ],
+  "description": "Frozen numerical records accompanying the manuscript \"SWC-FX: Conditioned Local–Memory Interaction for Real-Time Guitar Effect Modeling\", by Pengren Cheng, Communication University of China. This data-only release contains 88 scientific CSVs: 36 aggregate/evidence tables, 51 formal model/seed per-example result files, and one model display-name mapping. It includes the complete 12-model EGFxSet and five-model ToneTwist matrices with three training seeds, original statistical decisions, data schemas and SHA256 checksums. All scientific CSVs preserve the original file bytes. No experiments or statistical analyses were rerun for this deposit. The 32,976 model-example rows are repeated model measurements, not independent performances. Original audio, trained checkpoint tensors, model implementation source and manuscript PDFs are not included. The data DOI identifies the numerical dataset, not a published journal article. Source repository: https://github.com/KennyZ7/swc-fx-results. Original audio is obtained from the cited dataset providers under their respective terms.",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.2",
+  "keywords": [
+    "audio effect modeling",
+    "state-space models",
+    "guitar effects",
+    "EGFxSet",
+    "ToneTwist",
+    "numerical results"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/KennyZ7/swc-fx-results/tree/v1.0.2",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
+    }
+  ]
+}

@@ -1,13 +1,14 @@
 cff-version: 1.2.0
-message: "Please cite this versioned dataset when using the numerical records."
+message: "Please cite this dataset when using the numerical records."
 type: dataset
-title: "SWC-FX: Numerical Results for Conditioned Local-Memory Guitar Effect Modeling"
+title: "SWC-FX numerical results"
 authors:
   - family-names: Cheng
     given-names: Pengren
     orcid: "https://orcid.org/0009-0007-2326-6273"
     affiliation: "Communication University of China"
-version: 1.0.1
+version: 1.0.2
 date-released: 2026-11-09
+license: CC-BY-4.0
 url: "https://github.com/KennyZ7/swc-fx-results"
 abstract: "Frozen aggregate and per-example numerical records for shared guitar-effect modelling on EGFxSet and ToneTwist, with original statistical decisions and deployment tables."
