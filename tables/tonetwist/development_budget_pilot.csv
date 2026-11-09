@@ -1,0 +1,6 @@
+﻿model,seed,teacher_seed,completed_epochs,selected_epoch,validation_selection_score,purpose,model_id,display_name
+SWC-FX,41018,41,300,288,0.0934970711159703,development only; excluded from formal test statistics,SWC-FX,SWC-FX
+P-R,41018,41,322,310,0.09370222430613419,development only; excluded from formal test statistics,P-R,Local–SSM (calibrated readout)
+A1-R-matched,41018,41,469,457,0.08138451204941598,development only; excluded from formal test statistics,A1-R-matched,SSM-27 (calibrated readout)
+GCN-TFiLM-R,41018,41,227,215,0.10022115421050419,development only; excluded from formal test statistics,GCN-TFiLM-R,GCN-TFiLM-R
+LSTM64-R,41018,41,60,48,0.2327049408775053,development only; excluded from formal test statistics,LSTM64-R,LSTM64-R

@@ -1,0 +1,26 @@
+﻿setting,value
+sample_rate,48000
+block_size,128
+segment_seconds,3.0
+batch_size,16
+epochs,480
+learning_rate,0.0003
+weight_decay,1e-05
+grad_clip,1.0
+patience,12
+min_delta,0.0001
+stft_sizes,"[512, 1024, 2048]"
+waveform_weight,1.0
+stft_weight,0.5
+spectral_convergence_weight,0.1
+distill_weight,0.25
+teacher_waveform_weight,0.5
+teacher_stft_weight,0.3
+teacher_envelope_weight,0.2
+envelope_sizes,"[64, 512, 4096]"
+router_prior_weight,0.01
+router_prior_epochs,10
+checkpoint_selection,validation MR-STFT + 0.05 log1p(ESR)
+teacher_matching,teacher41/42/43 matches training seed41/42/43
+development,seed41018 excluded from formal statistics
+historical_test_observed,Yes; not a new blind-test claim

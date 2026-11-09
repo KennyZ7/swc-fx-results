@@ -1,0 +1,15 @@
+model_id,display_name
+SWC-FX,SWC-FX
+A1,SSM (tanh readout)
+D1,SSM + Spline
+C1,Family-adaptive TCN
+A2,TCN + Spline
+A2N,TCN (tanh readout)
+CDP-FX-w12,Local–SSM (tanh readout)
+P-R,Local–SSM (calibrated readout)
+A1-R24,SSM-24 (calibrated readout)
+A1-R-matched,SSM-27 (calibrated readout)
+GCN-TFiLM-R,GCN-TFiLM-R
+LSTM64-R,LSTM64-R
+P-R-W,Local–SSM + W (calibrated readout)
+P-R-I,Local–SSM + I (calibrated readout)

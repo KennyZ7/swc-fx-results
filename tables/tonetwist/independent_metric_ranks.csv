@@ -1,0 +1,16 @@
+﻿model,metric,rank,mean,model_id,display_name
+SWC-FX,mrstft,1,0.0696762217223834,SWC-FX,SWC-FX
+SWC-FX,mfcc_distance,1,5.306402191519737,SWC-FX,SWC-FX
+SWC-FX,rms_envelope_mae,1,0.005726263785685727,SWC-FX,SWC-FX
+P-R,mrstft,2,0.07131373158362866,P-R,Local–SSM (calibrated readout)
+P-R,mfcc_distance,3,5.510474585824543,P-R,Local–SSM (calibrated readout)
+P-R,rms_envelope_mae,2,0.005844055296148763,P-R,Local–SSM (calibrated readout)
+A1-R-matched,mrstft,4,0.07609220565279463,A1-R-matched,SSM-27 (calibrated readout)
+A1-R-matched,mfcc_distance,2,5.441154725021786,A1-R-matched,SSM-27 (calibrated readout)
+A1-R-matched,rms_envelope_mae,4,0.007864534003062916,A1-R-matched,SSM-27 (calibrated readout)
+GCN-TFiLM-R,mrstft,3,0.07430802777687656,GCN-TFiLM-R,GCN-TFiLM-R
+GCN-TFiLM-R,mfcc_distance,4,5.855271906764419,GCN-TFiLM-R,GCN-TFiLM-R
+GCN-TFiLM-R,rms_envelope_mae,3,0.006855477836358693,GCN-TFiLM-R,GCN-TFiLM-R
+LSTM64-R,mrstft,5,0.16116400917033188,LSTM64-R,LSTM64-R
+LSTM64-R,mfcc_distance,5,19.2933429481453,LSTM64-R,LSTM64-R
+LSTM64-R,rms_envelope_mae,5,0.059426797749640374,LSTM64-R,LSTM64-R

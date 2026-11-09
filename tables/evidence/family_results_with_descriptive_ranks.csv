@@ -1,0 +1,226 @@
+﻿dataset,family,model,metric,mean,descriptive_rank,samples_per_seed,statistical_test,model_id,display_name
+EGFxSet,clean,SWC-FX,mrstft,0.00014223701423144943,9,70,not performed,SWC-FX,SWC-FX
+EGFxSet,clean,SWC-FX,mfcc_distance,0.22881979245160308,11,70,not performed,SWC-FX,SWC-FX
+EGFxSet,clean,SWC-FX,rms_envelope_mae,0.0001506015121906655,9,70,not performed,SWC-FX,SWC-FX
+EGFxSet,delay,SWC-FX,mrstft,0.016687674390827762,4,204,not performed,SWC-FX,SWC-FX
+EGFxSet,delay,SWC-FX,mfcc_distance,7.016721332774443,6,204,not performed,SWC-FX,SWC-FX
+EGFxSet,delay,SWC-FX,rms_envelope_mae,0.031450776944813484,7,204,not performed,SWC-FX,SWC-FX
+EGFxSet,distortion,SWC-FX,mrstft,0.07983943382130256,1,210,not performed,SWC-FX,SWC-FX
+EGFxSet,distortion,SWC-FX,mfcc_distance,3.407539115254841,1,210,not performed,SWC-FX,SWC-FX
+EGFxSet,distortion,SWC-FX,rms_envelope_mae,0.03947088379405498,2,210,not performed,SWC-FX,SWC-FX
+EGFxSet,modulation,SWC-FX,mrstft,0.019593082464355586,1,207,not performed,SWC-FX,SWC-FX
+EGFxSet,modulation,SWC-FX,mfcc_distance,6.6448032882862424,1,207,not performed,SWC-FX,SWC-FX
+EGFxSet,modulation,SWC-FX,rms_envelope_mae,0.032709925931888886,1,207,not performed,SWC-FX,SWC-FX
+EGFxSet,reverb,SWC-FX,mrstft,0.027464346153040727,3,210,not performed,SWC-FX,SWC-FX
+EGFxSet,reverb,SWC-FX,mfcc_distance,10.434170604130578,6,210,not performed,SWC-FX,SWC-FX
+EGFxSet,reverb,SWC-FX,rms_envelope_mae,0.02796749524321289,3,210,not performed,SWC-FX,SWC-FX
+EGFxSet,clean,A1,mrstft,3.8433800017671836e-05,2,70,not performed,A1,SSM (tanh readout)
+EGFxSet,clean,A1,mfcc_distance,0.06058111648474421,2,70,not performed,A1,SSM (tanh readout)
+EGFxSet,clean,A1,rms_envelope_mae,1.2033579565424935e-05,1,70,not performed,A1,SSM (tanh readout)
+EGFxSet,delay,A1,mrstft,0.0168527900895676,8,204,not performed,A1,SSM (tanh readout)
+EGFxSet,delay,A1,mfcc_distance,7.021738024318919,7,204,not performed,A1,SSM (tanh readout)
+EGFxSet,delay,A1,rms_envelope_mae,0.031190882944060624,3,204,not performed,A1,SSM (tanh readout)
+EGFxSet,distortion,A1,mrstft,0.08434287857500807,4,210,not performed,A1,SSM (tanh readout)
+EGFxSet,distortion,A1,mfcc_distance,3.7787572383880614,5,210,not performed,A1,SSM (tanh readout)
+EGFxSet,distortion,A1,rms_envelope_mae,0.04178459179210698,5,210,not performed,A1,SSM (tanh readout)
+EGFxSet,modulation,A1,mrstft,0.01970869607641549,2,207,not performed,A1,SSM (tanh readout)
+EGFxSet,modulation,A1,mfcc_distance,6.668630642975394,2,207,not performed,A1,SSM (tanh readout)
+EGFxSet,modulation,A1,rms_envelope_mae,0.03419386349871886,9,207,not performed,A1,SSM (tanh readout)
+EGFxSet,reverb,A1,mrstft,0.028080113390312782,8,210,not performed,A1,SSM (tanh readout)
+EGFxSet,reverb,A1,mfcc_distance,10.90007246789478,8,210,not performed,A1,SSM (tanh readout)
+EGFxSet,reverb,A1,rms_envelope_mae,0.030050501261379512,11,210,not performed,A1,SSM (tanh readout)
+EGFxSet,clean,D1,mrstft,0.00015476420144079297,10,70,not performed,D1,SSM + Spline
+EGFxSet,clean,D1,mfcc_distance,0.17540078486005464,10,70,not performed,D1,SSM + Spline
+EGFxSet,clean,D1,rms_envelope_mae,4.246577284772814e-05,3,70,not performed,D1,SSM + Spline
+EGFxSet,delay,D1,mrstft,0.017334163348720063,10,204,not performed,D1,SSM + Spline
+EGFxSet,delay,D1,mfcc_distance,7.1264253332723975,10,204,not performed,D1,SSM + Spline
+EGFxSet,delay,D1,rms_envelope_mae,0.03143236040954898,6,204,not performed,D1,SSM + Spline
+EGFxSet,distortion,D1,mrstft,0.08715439518351877,7,210,not performed,D1,SSM + Spline
+EGFxSet,distortion,D1,mfcc_distance,3.970573856149401,7,210,not performed,D1,SSM + Spline
+EGFxSet,distortion,D1,rms_envelope_mae,0.041400364834061336,4,210,not performed,D1,SSM + Spline
+EGFxSet,modulation,D1,mrstft,0.02008350806283778,5,207,not performed,D1,SSM + Spline
+EGFxSet,modulation,D1,mfcc_distance,7.045850771828742,8,207,not performed,D1,SSM + Spline
+EGFxSet,modulation,D1,rms_envelope_mae,0.03341008408292048,3,207,not performed,D1,SSM + Spline
+EGFxSet,reverb,D1,mrstft,0.028827103620602024,11,210,not performed,D1,SSM + Spline
+EGFxSet,reverb,D1,mfcc_distance,11.40627068867759,10,210,not performed,D1,SSM + Spline
+EGFxSet,reverb,D1,rms_envelope_mae,0.029987161784314566,10,210,not performed,D1,SSM + Spline
+EGFxSet,clean,C1,mrstft,0.0009098198641801164,12,70,not performed,C1,Family-adaptive TCN
+EGFxSet,clean,C1,mfcc_distance,0.8928435622226625,12,70,not performed,C1,Family-adaptive TCN
+EGFxSet,clean,C1,rms_envelope_mae,0.0003779097901964893,12,70,not performed,C1,Family-adaptive TCN
+EGFxSet,delay,C1,mrstft,0.017103609444841354,9,204,not performed,C1,Family-adaptive TCN
+EGFxSet,delay,C1,mfcc_distance,7.108155175751331,9,204,not performed,C1,Family-adaptive TCN
+EGFxSet,delay,C1,rms_envelope_mae,0.03135675355925961,5,204,not performed,C1,Family-adaptive TCN
+EGFxSet,distortion,C1,mrstft,0.11308414306757705,11,210,not performed,C1,Family-adaptive TCN
+EGFxSet,distortion,C1,mfcc_distance,4.807537363067506,11,210,not performed,C1,Family-adaptive TCN
+EGFxSet,distortion,C1,rms_envelope_mae,0.050400697385766614,11,210,not performed,C1,Family-adaptive TCN
+EGFxSet,modulation,C1,mrstft,0.020836527325848835,10,207,not performed,C1,Family-adaptive TCN
+EGFxSet,modulation,C1,mfcc_distance,7.2900500266832235,11,207,not performed,C1,Family-adaptive TCN
+EGFxSet,modulation,C1,rms_envelope_mae,0.03629044938499585,12,207,not performed,C1,Family-adaptive TCN
+EGFxSet,reverb,C1,mrstft,0.027444363709184384,2,210,not performed,C1,Family-adaptive TCN
+EGFxSet,reverb,C1,mfcc_distance,11.56895506646898,11,210,not performed,C1,Family-adaptive TCN
+EGFxSet,reverb,C1,rms_envelope_mae,0.028141541122495832,4,210,not performed,C1,Family-adaptive TCN
+EGFxSet,clean,A2,mrstft,6.2268341597311e-05,3,70,not performed,A2,TCN + Spline
+EGFxSet,clean,A2,mfcc_distance,0.0659022682302055,3,70,not performed,A2,TCN + Spline
+EGFxSet,clean,A2,rms_envelope_mae,4.4822904380583035e-05,4,70,not performed,A2,TCN + Spline
+EGFxSet,delay,A2,mrstft,0.017914604629980388,12,204,not performed,A2,TCN + Spline
+EGFxSet,delay,A2,mfcc_distance,7.579509619014715,12,204,not performed,A2,TCN + Spline
+EGFxSet,delay,A2,rms_envelope_mae,0.030086855514407207,1,204,not performed,A2,TCN + Spline
+EGFxSet,distortion,A2,mrstft,0.09475566919242578,9,210,not performed,A2,TCN + Spline
+EGFxSet,distortion,A2,mfcc_distance,4.14294560144818,8,210,not performed,A2,TCN + Spline
+EGFxSet,distortion,A2,rms_envelope_mae,0.04642031912115358,9,210,not performed,A2,TCN + Spline
+EGFxSet,modulation,A2,mrstft,0.020474665432316574,8,207,not performed,A2,TCN + Spline
+EGFxSet,modulation,A2,mfcc_distance,7.204749452511086,9,207,not performed,A2,TCN + Spline
+EGFxSet,modulation,A2,rms_envelope_mae,0.033695382612341965,5,207,not performed,A2,TCN + Spline
+EGFxSet,reverb,A2,mrstft,0.028174925233340926,10,210,not performed,A2,TCN + Spline
+EGFxSet,reverb,A2,mfcc_distance,9.736232603920831,1,210,not performed,A2,TCN + Spline
+EGFxSet,reverb,A2,rms_envelope_mae,0.027346753953985635,2,210,not performed,A2,TCN + Spline
+EGFxSet,clean,A2N,mrstft,2.9998444837734238e-05,1,70,not performed,A2N,TCN (tanh readout)
+EGFxSet,clean,A2N,mfcc_distance,0.041855611159865344,1,70,not performed,A2N,TCN (tanh readout)
+EGFxSet,clean,A2N,rms_envelope_mae,1.2139768940263214e-05,2,70,not performed,A2N,TCN (tanh readout)
+EGFxSet,delay,A2N,mrstft,0.017556588478946412,11,204,not performed,A2N,TCN (tanh readout)
+EGFxSet,delay,A2N,mfcc_distance,7.478668094460481,11,204,not performed,A2N,TCN (tanh readout)
+EGFxSet,delay,A2N,rms_envelope_mae,0.030089206423677406,2,204,not performed,A2N,TCN (tanh readout)
+EGFxSet,distortion,A2N,mrstft,0.0968830657708976,10,210,not performed,A2N,TCN (tanh readout)
+EGFxSet,distortion,A2N,mfcc_distance,4.1964778763907296,9,210,not performed,A2N,TCN (tanh readout)
+EGFxSet,distortion,A2N,rms_envelope_mae,0.047985357961743066,10,210,not performed,A2N,TCN (tanh readout)
+EGFxSet,modulation,A2N,mrstft,0.02139530875592608,12,207,not performed,A2N,TCN (tanh readout)
+EGFxSet,modulation,A2N,mfcc_distance,7.283304334262719,10,207,not performed,A2N,TCN (tanh readout)
+EGFxSet,modulation,A2N,rms_envelope_mae,0.03549528733494237,10,207,not performed,A2N,TCN (tanh readout)
+EGFxSet,reverb,A2N,mrstft,0.027907582107813113,4,210,not performed,A2N,TCN (tanh readout)
+EGFxSet,reverb,A2N,mfcc_distance,9.863992761430286,2,210,not performed,A2N,TCN (tanh readout)
+EGFxSet,reverb,A2N,rms_envelope_mae,0.026057446268682796,1,210,not performed,A2N,TCN (tanh readout)
+EGFxSet,clean,CDP-FX-w12,mrstft,0.00010460768195722873,5,70,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,clean,CDP-FX-w12,mfcc_distance,0.1679861642420292,8,70,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,clean,CDP-FX-w12,rms_envelope_mae,5.842424928427395e-05,5,70,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,delay,CDP-FX-w12,mrstft,0.016791185217276457,6,204,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,delay,CDP-FX-w12,mfcc_distance,7.097536833457697,8,204,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,delay,CDP-FX-w12,rms_envelope_mae,0.03127187431684932,4,204,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,distortion,CDP-FX-w12,mrstft,0.08551747456547759,5,210,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,distortion,CDP-FX-w12,mfcc_distance,3.6415732501045106,3,210,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,distortion,CDP-FX-w12,rms_envelope_mae,0.04264875815752598,6,210,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,modulation,CDP-FX-w12,mrstft,0.02008695738321101,6,207,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,modulation,CDP-FX-w12,mfcc_distance,6.972851189246308,5,207,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,modulation,CDP-FX-w12,rms_envelope_mae,0.03388901801566907,6,207,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,reverb,CDP-FX-w12,mrstft,0.028103275461092828,9,210,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,reverb,CDP-FX-w12,mfcc_distance,10.303577497270371,4,210,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,reverb,CDP-FX-w12,rms_envelope_mae,0.029778067562507376,9,210,not performed,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,clean,P-R,mrstft,0.0001269199334187544,8,70,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,clean,P-R,mfcc_distance,0.1725487011174361,9,70,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,clean,P-R,rms_envelope_mae,0.00018114559330743282,10,70,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,delay,P-R,mrstft,0.016570993710546662,3,204,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,delay,P-R,mfcc_distance,6.913496829325856,2,204,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,delay,P-R,rms_envelope_mae,0.03180446681487405,11,204,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,distortion,P-R,mrstft,0.0827124608517994,2,210,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,distortion,P-R,mfcc_distance,3.6332871520330037,2,210,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,distortion,P-R,rms_envelope_mae,0.043766453826711293,7,210,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,modulation,P-R,mrstft,0.020492629497499474,9,207,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,modulation,P-R,mfcc_distance,6.989841047692414,6,207,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,modulation,P-R,rms_envelope_mae,0.03396343488595636,7,207,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,reverb,P-R,mrstft,0.027908905582236392,5,210,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,reverb,P-R,mfcc_distance,10.10063642698621,3,210,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,reverb,P-R,rms_envelope_mae,0.02962112148543672,8,210,not performed,P-R,Local–SSM (calibrated readout)
+EGFxSet,clean,A1-R24,mrstft,0.00012042152898391664,7,70,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,clean,A1-R24,mfcc_distance,0.15700642377847718,7,70,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,clean,A1-R24,rms_envelope_mae,0.0001453410352734777,8,70,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,delay,A1-R24,mrstft,0.016814418511428668,7,204,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,delay,A1-R24,mfcc_distance,6.968911068112242,4,204,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,delay,A1-R24,rms_envelope_mae,0.0315941557386324,10,204,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,distortion,A1-R24,mrstft,0.08687015840162833,6,210,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,distortion,A1-R24,mfcc_distance,3.8657575026391044,6,210,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,distortion,A1-R24,rms_envelope_mae,0.04456403989618319,8,210,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,modulation,A1-R24,mrstft,0.020107382631016333,7,207,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,modulation,A1-R24,mfcc_distance,6.9397560747733245,4,207,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,modulation,A1-R24,rms_envelope_mae,0.03317476408826052,2,207,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,reverb,A1-R24,mrstft,0.02804634091074741,7,210,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,reverb,A1-R24,mfcc_distance,10.950769960312616,9,210,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,reverb,A1-R24,rms_envelope_mae,0.028436817739173652,6,210,not performed,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,clean,A1-R-matched,mrstft,8.71756892939586e-05,4,70,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,clean,A1-R-matched,mfcc_distance,0.11125065545950617,6,70,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,clean,A1-R-matched,rms_envelope_mae,8.734660861288527e-05,7,70,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,delay,A1-R-matched,mrstft,0.01671380264413683,5,204,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,delay,A1-R-matched,mfcc_distance,6.965645874247832,3,204,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,delay,A1-R-matched,rms_envelope_mae,0.03153131848499422,8,204,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,distortion,A1-R-matched,mrstft,0.0835307225851076,3,210,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,distortion,A1-R-matched,mfcc_distance,3.7496866933883184,4,210,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,distortion,A1-R-matched,rms_envelope_mae,0.039173715617803355,1,210,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,modulation,A1-R-matched,mrstft,0.019988508790059558,4,207,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,modulation,A1-R-matched,mfcc_distance,6.751951823104023,3,207,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,modulation,A1-R-matched,rms_envelope_mae,0.03355413619368885,4,207,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,reverb,A1-R-matched,mrstft,0.02801342707807346,6,210,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,reverb,A1-R-matched,mfcc_distance,10.821763201365394,7,210,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,reverb,A1-R-matched,rms_envelope_mae,0.028152503793142616,5,210,not performed,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,clean,GCN-TFiLM-R,mrstft,0.00010634227976316608,6,70,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,clean,GCN-TFiLM-R,mfcc_distance,0.07365179668579783,5,70,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,clean,GCN-TFiLM-R,rms_envelope_mae,0.0002099301170736518,11,70,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,delay,GCN-TFiLM-R,mrstft,0.01642915244622071,1,204,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,delay,GCN-TFiLM-R,mfcc_distance,6.724575600203345,1,204,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,delay,GCN-TFiLM-R,rms_envelope_mae,0.031575732235188045,9,204,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,distortion,GCN-TFiLM-R,mrstft,0.09240508936345578,8,210,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,distortion,GCN-TFiLM-R,mfcc_distance,4.314344647574046,10,210,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,distortion,GCN-TFiLM-R,rms_envelope_mae,0.03950529073084157,3,210,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,modulation,GCN-TFiLM-R,mrstft,0.019941367049987956,3,207,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,modulation,GCN-TFiLM-R,mfcc_distance,7.001316679464638,7,207,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,modulation,GCN-TFiLM-R,rms_envelope_mae,0.0339794685991388,8,207,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,reverb,GCN-TFiLM-R,mrstft,0.027435771480853122,1,210,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,reverb,GCN-TFiLM-R,mfcc_distance,10.357678176486303,5,210,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,reverb,GCN-TFiLM-R,rms_envelope_mae,0.03014723301037318,12,210,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,clean,LSTM64-R,mrstft,0.0002701316032298131,11,70,not performed,LSTM64-R,LSTM64-R
+EGFxSet,clean,LSTM64-R,mfcc_distance,0.07051798224981343,4,70,not performed,LSTM64-R,LSTM64-R
+EGFxSet,clean,LSTM64-R,rms_envelope_mae,7.175877539598982e-05,6,70,not performed,LSTM64-R,LSTM64-R
+EGFxSet,delay,LSTM64-R,mrstft,0.016545734295219768,2,204,not performed,LSTM64-R,LSTM64-R
+EGFxSet,delay,LSTM64-R,mfcc_distance,7.012607438112396,5,204,not performed,LSTM64-R,LSTM64-R
+EGFxSet,delay,LSTM64-R,rms_envelope_mae,0.032354745163210956,12,204,not performed,LSTM64-R,LSTM64-R
+EGFxSet,distortion,LSTM64-R,mrstft,0.22725952941155622,12,210,not performed,LSTM64-R,LSTM64-R
+EGFxSet,distortion,LSTM64-R,mfcc_distance,16.643431444016713,12,210,not performed,LSTM64-R,LSTM64-R
+EGFxSet,distortion,LSTM64-R,rms_envelope_mae,0.15411126315002405,12,210,not performed,LSTM64-R,LSTM64-R
+EGFxSet,modulation,LSTM64-R,mrstft,0.021118718631349613,11,207,not performed,LSTM64-R,LSTM64-R
+EGFxSet,modulation,LSTM64-R,mfcc_distance,8.033274646734462,12,207,not performed,LSTM64-R,LSTM64-R
+EGFxSet,modulation,LSTM64-R,rms_envelope_mae,0.036130972312322415,11,207,not performed,LSTM64-R,LSTM64-R
+EGFxSet,reverb,LSTM64-R,mrstft,0.02911004042400727,12,210,not performed,LSTM64-R,LSTM64-R
+EGFxSet,reverb,LSTM64-R,mfcc_distance,12.809139507535905,12,210,not performed,LSTM64-R,LSTM64-R
+EGFxSet,reverb,LSTM64-R,rms_envelope_mae,0.02935451362171166,7,210,not performed,LSTM64-R,LSTM64-R
+ToneTwist,clean,SWC-FX,mrstft,0.0016440250716793041,5,2,not performed,SWC-FX,SWC-FX
+ToneTwist,clean,SWC-FX,mfcc_distance,2.4941545029481254,5,2,not performed,SWC-FX,SWC-FX
+ToneTwist,clean,SWC-FX,rms_envelope_mae,0.0003749803011790694,5,2,not performed,SWC-FX,SWC-FX
+ToneTwist,distortion,SWC-FX,mrstft,0.08269661950568358,1,30,not performed,SWC-FX,SWC-FX
+ToneTwist,distortion,SWC-FX,mfcc_distance,5.301019440756904,1,30,not performed,SWC-FX,SWC-FX
+ToneTwist,distortion,SWC-FX,rms_envelope_mae,0.006673325518689429,1,30,not performed,SWC-FX,SWC-FX
+ToneTwist,modulation,SWC-FX,mrstft,0.006039336672984064,4,4,not performed,SWC-FX,SWC-FX
+ToneTwist,modulation,SWC-FX,mfcc_distance,6.752896666526794,5,4,not performed,SWC-FX,SWC-FX
+ToneTwist,modulation,SWC-FX,rms_envelope_mae,0.0012989425304112956,1,4,not performed,SWC-FX,SWC-FX
+ToneTwist,clean,P-R,mrstft,0.0010937375482171774,3,2,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,clean,P-R,mfcc_distance,2.057821253935496,4,2,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,clean,P-R,rms_envelope_mae,0.00018237755405910624,2,2,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,distortion,P-R,mrstft,0.08471010451515516,2,30,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,distortion,P-R,mfcc_distance,5.584032903777229,2,30,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,distortion,P-R,rms_envelope_mae,0.0068111748719174,2,30,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,modulation,P-R,mrstft,0.005950931614885728,3,4,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,modulation,P-R,mfcc_distance,6.685113867123921,4,4,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,modulation,P-R,rms_envelope_mae,0.001421497348928824,2,4,not performed,P-R,Local–SSM (calibrated readout)
+ToneTwist,clean,A1-R-matched,mrstft,0.000732231962804993,2,2,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,clean,A1-R-matched,mfcc_distance,1.6587878863016765,3,2,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,clean,A1-R-matched,rms_envelope_mae,0.00021807482213868448,3,2,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,distortion,A1-R-matched,mrstft,0.09053109358582231,4,30,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,distortion,A1-R-matched,mfcc_distance,5.616342862447103,3,30,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,distortion,A1-R-matched,rms_envelope_mae,0.009217791058795733,4,30,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,modulation,A1-R-matched,mrstft,0.005480533000081778,1,4,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,modulation,A1-R-matched,mfcc_distance,6.018427113691966,1,4,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,modulation,A1-R-matched,rms_envelope_mae,0.001538335675528894,3,4,not performed,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,clean,GCN-TFiLM-R,mrstft,0.0011551777618781973,4,2,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,clean,GCN-TFiLM-R,mfcc_distance,1.4597577253977458,2,2,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,clean,GCN-TFiLM-R,rms_envelope_mae,0.0002301260016489929,4,2,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,distortion,GCN-TFiLM-R,mrstft,0.08830846173481809,3,30,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,distortion,GCN-TFiLM-R,mfcc_distance,6.069127689467536,4,30,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,distortion,GCN-TFiLM-R,rms_envelope_mae,0.007995334871682441,3,30,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,modulation,GCN-TFiLM-R,mrstft,0.005881198099814355,2,4,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,modulation,GCN-TFiLM-R,mfcc_distance,6.449110627174377,3,4,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,modulation,GCN-TFiLM-R,rms_envelope_mae,0.001619225988785426,4,4,not performed,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,clean,LSTM64-R,mrstft,0.0002742103655085278,1,2,not performed,LSTM64-R,LSTM64-R
+ToneTwist,clean,LSTM64-R,mfcc_distance,0.1489680641485999,1,2,not performed,LSTM64-R,LSTM64-R
+ToneTwist,clean,LSTM64-R,rms_envelope_mae,7.936344081826974e-05,1,2,not performed,LSTM64-R,LSTM64-R
+ToneTwist,distortion,LSTM64-R,mrstft,0.19242786400847964,5,30,not performed,LSTM64-R,LSTM64-R
+ToneTwist,distortion,LSTM64-R,mfcc_distance,22.328253756629096,5,30,not performed,LSTM64-R,LSTM64-R
+ToneTwist,distortion,LSTM64-R,rms_envelope_mae,0.070654345345166,5,30,not performed,LSTM64-R,LSTM64-R
+ToneTwist,modulation,LSTM64-R,mrstft,0.007129997286635141,5,4,not performed,LSTM64-R,LSTM64-R
+ToneTwist,modulation,LSTM64-R,mfcc_distance,6.103699326515198,2,4,not performed,LSTM64-R,LSTM64-R
+ToneTwist,modulation,LSTM64-R,rms_envelope_mae,0.0048939079376092804,5,4,not performed,LSTM64-R,LSTM64-R

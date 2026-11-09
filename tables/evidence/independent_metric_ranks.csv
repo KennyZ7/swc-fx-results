@@ -1,0 +1,52 @@
+﻿dataset,metric,model,rank,mean,model_id,display_name
+EGFxSet,mrstft,SWC-FX,1,0.03330055941338376,SWC-FX,SWC-FX
+EGFxSet,mfcc_distance,SWC-FX,1,6.359225148838834,SWC-FX,SWC-FX
+EGFxSet,rms_envelope_mae,SWC-FX,1,0.030365721274497836,SWC-FX,SWC-FX
+EGFxSet,mrstft,A1,4,0.034549598162939406,A1,SSM (tanh readout)
+EGFxSet,mfcc_distance,A1,5,6.547875712020304,A1,SSM (tanh readout)
+EGFxSet,rms_envelope_mae,A1,5,0.03166179995185895,A1,SSM (tanh readout)
+EGFxSet,mrstft,D1,7,0.03558313400123478,D1,SSM + Spline
+EGFxSet,mfcc_distance,D1,10,6.829852704894551,D1,SSM + Spline
+EGFxSet,rms_envelope_mae,D1,4,0.03143445296633831,D1,SSM + Spline
+EGFxSet,mrstft,C1,11,0.041483874913219594,C1,Family-adaptive TCN
+EGFxSet,mfcc_distance,C1,11,7.170551022125358,C1,Family-adaptive TCN
+EGFxSet,rms_envelope_mae,C1,11,0.033772724218459456,C1,Family-adaptive TCN
+EGFxSet,mrstft,A2,9,0.037416890901585294,A2,TCN + Spline
+EGFxSet,mfcc_distance,A2,7,6.6113692351303035,A2,TCN + Spline
+EGFxSet,rms_envelope_mae,A2,6,0.03175015058244143,A2,TCN + Spline
+EGFxSet,mrstft,A2N,10,0.03797836726731372,A2N,TCN (tanh readout)
+EGFxSet,mfcc_distance,A2N,9,6.646971160028773,A2N,TCN (tanh readout)
+EGFxSet,rms_envelope_mae,A2N,10,0.03222592814758991,A2N,TCN (tanh readout)
+EGFxSet,mrstft,CDP-FX-w12,5,0.03490686127188221,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,mfcc_distance,CDP-FX-w12,3,6.47227347241401,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,rms_envelope_mae,CDP-FX-w12,7,0.031751622850763224,CDP-FX-w12,Local–SSM (tanh readout)
+EGFxSet,mrstft,P-R,2,0.03425286167527274,P-R,Local–SSM (calibrated readout)
+EGFxSet,mfcc_distance,P-R,2,6.3856302005849725,P-R,Local–SSM (calibrated readout)
+EGFxSet,rms_envelope_mae,P-R,9,0.03212276721277456,P-R,Local–SSM (calibrated readout)
+EGFxSet,mrstft,A1-R24,6,0.03522004877200845,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,mfcc_distance,A1-R24,8,6.637789769430999,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,rms_envelope_mae,A1-R24,8,0.03180104096875141,A1-R24,SSM-24 (calibrated readout)
+EGFxSet,mrstft,A1-R-matched,3,0.034381366022713473,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,mfcc_distance,A1-R-matched,4,6.533227313551094,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,rms_envelope_mae,A1-R-matched,2,0.030546854053200855,A1-R-matched,SSM-27 (calibrated readout)
+EGFxSet,mrstft,GCN-TFiLM-R,8,0.03624132609907305,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,mfcc_distance,GCN-TFiLM-R,6,6.556455487138005,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,rms_envelope_mae,GCN-TFiLM-R,3,0.03120635346265299,GCN-TFiLM-R,GCN-TFiLM-R
+EGFxSet,mrstft,LSTM64-R,12,0.06837227905727927,LSTM64-R,LSTM64-R
+EGFxSet,mfcc_distance,LSTM64-R,12,10.3034804970394,LSTM64-R,LSTM64-R
+EGFxSet,rms_envelope_mae,LSTM64-R,12,0.058393246968133174,LSTM64-R,LSTM64-R
+ToneTwist,mrstft,SWC-FX,1,0.0696762217223834,SWC-FX,SWC-FX
+ToneTwist,mfcc_distance,SWC-FX,1,5.306402191519737,SWC-FX,SWC-FX
+ToneTwist,rms_envelope_mae,SWC-FX,1,0.005726263785685727,SWC-FX,SWC-FX
+ToneTwist,mrstft,P-R,2,0.07131373158362866,P-R,Local–SSM (calibrated readout)
+ToneTwist,mfcc_distance,P-R,3,5.510474585824543,P-R,Local–SSM (calibrated readout)
+ToneTwist,rms_envelope_mae,P-R,2,0.005844055296148763,P-R,Local–SSM (calibrated readout)
+ToneTwist,mrstft,A1-R-matched,4,0.07609220565279463,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,mfcc_distance,A1-R-matched,2,5.441154725021786,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,rms_envelope_mae,A1-R-matched,4,0.007864534003062916,A1-R-matched,SSM-27 (calibrated readout)
+ToneTwist,mrstft,GCN-TFiLM-R,3,0.07430802777687656,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,mfcc_distance,GCN-TFiLM-R,4,5.855271906764419,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,rms_envelope_mae,GCN-TFiLM-R,3,0.006855477836358693,GCN-TFiLM-R,GCN-TFiLM-R
+ToneTwist,mrstft,LSTM64-R,5,0.16116400917033188,LSTM64-R,LSTM64-R
+ToneTwist,mfcc_distance,LSTM64-R,5,19.2933429481453,LSTM64-R,LSTM64-R
+ToneTwist,rms_envelope_mae,LSTM64-R,5,0.059426797749640374,LSTM64-R,LSTM64-R
