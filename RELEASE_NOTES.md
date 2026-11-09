@@ -2,7 +2,7 @@
 
 Adds CC BY 4.0 licensing and Zenodo deposit metadata. All 88 scientific CSVs are byte-identical to v1.0.1 and to the frozen submission artifact. No scientific results, schemas, statistical decisions or manuscript files were changed. Prior releases remain available.
 
-Zenodo dataset archiving is triggered by this GitHub release; its verified DOI will be added to the release page.
+Dataset DOI: https://doi.org/10.5281/zenodo.24076550. Public DOI resolution and archive download were verified; all 88 scientific CSVs match their frozen source hashes.
 
 # v1.0.1 — 2026-11-09
 

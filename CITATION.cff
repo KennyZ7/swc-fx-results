@@ -12,3 +12,4 @@ date-released: 2026-11-09
 license: CC-BY-4.0
 url: "https://github.com/KennyZ7/swc-fx-results"
 abstract: "Frozen aggregate and per-example numerical records for shared guitar-effect modelling on EGFxSet and ToneTwist, with original statistical decisions and deployment tables."
+doi: "10.5281/zenodo.24076550"

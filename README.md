@@ -10,7 +10,7 @@ This is a data-only release of the existing, frozen numerical records. It contai
 
 
 
-The companion manuscript is being prepared for submission; this release does not assign it a journal DOI or claim acceptance. This version is submitted for dataset archiving through the enabled Zenodo/GitHub integration. The version DOI, once registered and verified, is linked from the GitHub release page. The data DOI identifies the numerical records, not a journal publication.
+The companion manuscript is being prepared for submission; this release does not assign it a journal DOI or claim acceptance. Dataset DOI: [10.5281/zenodo.24076550](https://doi.org/10.5281/zenodo.24076550). The Zenodo record is public and its data download has been verified. This DOI identifies the numerical dataset, not a journal publication.
 
 
 

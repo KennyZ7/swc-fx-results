@@ -21,10 +21,12 @@
   "model_implementation_source_included": false,
   "manuscript_pdf_included": false,
   "private_path_or_credential_patterns_found": 0,
-  "data_doi": null,
+  "data_doi": "10.5281/zenodo.24076550",
   "additional_reuse_license_assigned": true,
   "packaging_correction": "Checksum manifest excludes itself; scientific CSVs unchanged from v1.0.0.",
   "license": "CC-BY-4.0",
   "previous_data_release_sha256": "750308c777c1eb2749a50ecef4f0527284aae81e9325f20ba8490a0f5f51324c",
-  "scientific_csvs_unchanged_from_v1_0_1": 88
+  "scientific_csvs_unchanged_from_v1_0_1": 88,
+  "zenodo_record_url": "https://zenodo.org/records/24076550",
+  "zenodo_record_verified": true
 }
