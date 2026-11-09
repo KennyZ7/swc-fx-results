@@ -1,6 +1,6 @@
 {
   "release_date": "2026-11-09",
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "repository_url": "https://github.com/KennyZ7/swc-fx-results",
   "title": "SWC-FX numerical results",
   "author": "Pengren Cheng",
@@ -22,5 +22,6 @@
   "manuscript_pdf_included": false,
   "private_path_or_credential_patterns_found": 0,
   "data_doi": null,
-  "additional_reuse_license_assigned": false
+  "additional_reuse_license_assigned": false,
+  "packaging_correction": "Checksum manifest excludes itself; scientific CSVs unchanged from v1.0.0."
 }

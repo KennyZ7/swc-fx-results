@@ -51,4 +51,4 @@ No additional reuse license is assigned by this release. Making these numerical 
 
 ## Citation and provenance
 
-Use [CITATION.cff](CITATION.cff) and the tagged release **v1.0.0**. The release date is **2026-11-09**. [PROVENANCE.json](PROVENANCE.json) identifies the source archive by its SHA256 without publishing local paths. The same CSV hashes appear in the frozen scientific bindings retained by the author. Public release is a packaging operation and does not change the scientific results.
+Use [CITATION.cff](CITATION.cff) and the tagged release **v1.0.1**. The release date is **2026-11-09**. [PROVENANCE.json](PROVENANCE.json) identifies the source archive by its SHA256 without publishing local paths. The same CSV hashes appear in the frozen scientific bindings retained by the author. Public release is a packaging operation and does not change the scientific results.

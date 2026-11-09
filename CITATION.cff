@@ -7,7 +7,7 @@ authors:
     given-names: Pengren
     orcid: "https://orcid.org/0009-0007-2326-6273"
     affiliation: "Communication University of China"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-11-09
 url: "https://github.com/KennyZ7/swc-fx-results"
 abstract: "Frozen aggregate and per-example numerical records for shared guitar-effect modelling on EGFxSet and ToneTwist, with original statistical decisions and deployment tables."
